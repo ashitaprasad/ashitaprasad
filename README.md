@@ -15,6 +15,8 @@ To learn more about me, do check out my [homepage](https://ashitaprasad.github.i
 
 ## 📚 Blog Posts
 
+- [Foundations of MCP Apps](https://dev.to/ashita/a-practical-guide-to-building-mcp-apps-1bfm)
+- [Real-world use case & deployment of MCP Apps](https://dev.to/aws/how-i-built-mcp-apps-based-sales-analytics-agentic-ui-deployed-it-on-amazon-bedrock-agentcore-4e9i)
 - [Mastering Dart & Flutter DevTools](https://medium.com/@fluttergems/mastering-dart-flutter-devtools-series-introduction-installation-part-1-of-8-4f703a8cfcc8)
 - [Packaging and Distributing Flutter Desktop Apps: The Missing Guide for Open Source & Indie Developers](https://medium.com/@fluttergems/packaging-and-distributing-flutter-desktop-apps-the-missing-guide-part-1-macos-b36438269285)
 
