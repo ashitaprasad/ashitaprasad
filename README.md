@@ -2,9 +2,11 @@
 
 I'm a passionate software developer with a love for coding, learning new technologies, and solving challenging problems. 
 
-**Google Developer Expert** - Dart & Flutter  
-**Maintainer** - [API Dash](https://apidash.dev), an Open source alternative to Postman  
+**Join my FOSS Discord server (5.4K memebers)** - [Link](https://discord.com/invite/bBeSdtJ6Ue)
+**Creator & Maintainer** - [API Dash](https://github.com/foss42/apidash), an Open source cross-platform Agentic API Client  
 **Creator** - [Flutter Gems](https://fluttergems.dev), a curated package discovery platform for Dart 🎯 & Flutter 💙 packages  
+**Google Developer Expert** - Dart & Flutter  
+
 To learn more about me, do check out my [homepage](https://ashitaprasad.github.io).
 
 ## 📫 Connect with Me
