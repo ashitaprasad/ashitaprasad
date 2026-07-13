@@ -2,8 +2,8 @@
 
 I'm a passionate software developer with a love for coding, learning new technologies, and solving challenging problems. 
 
-**Join my FOSS Discord server (5.4K memebers)** - [Link](https://discord.com/invite/bBeSdtJ6Ue)   
-**Creator & Maintainer** - [API Dash](https://github.com/foss42/apidash), an Open source cross-platform Agentic API Client  
+**Join my FOSS Discord server (5.5K memebers)** - [Link](https://discord.com/invite/bBeSdtJ6Ue)   
+**Creator & Maintainer** - [API Dash](https://github.com/foss42/apidash) **[GSoC Org]**, an Open source cross-platform Agentic API Client  
 **Creator** - [Flutter Gems](https://fluttergems.dev), a curated package discovery platform for Dart 🎯 & Flutter 💙 packages  
 **Google Developer Expert** - Dart & Flutter  
 
